@@ -11,10 +11,6 @@
 - 👯 If I can, I will try to contribute to whatever project I enjoy!
 - ⚡ A day without music? Impossible!
 
-## My Achievements!
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco" alt="mewpasco" /></a> </p>
-
 ### Connect with me:
 
 <a href="https://avariaxyz.win/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mewpasco" height="30" width="40" /></a>
@@ -24,17 +20,11 @@
 <a href="https://x.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mewpasco" height="30" width="40" /></a>
 <a href="https://instagram.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mewpasco" height="30" width="40" /></a>
 
-<br />
-<br />
-
 ---
 
-### 📺 Latest YouTube Videos
+## My Achievements!
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/mewpasco)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco" alt="mewpasco" /></a> </p>
 
 ---
 
@@ -47,6 +37,14 @@
 
 <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/mewpasco)
 
 [website]: https://avariaxyz.win/
 [steam]: https://steamcommunity.com/id/mewpasco/
