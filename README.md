@@ -6,27 +6,29 @@
 
 ## Doing things in my free time!
 
-- ⚠️ Coding is a little hobby next to gaming - [Check my steam!][steam]!
+- ⚠️ Coding is a little hobby next to gaming - [Check my Steam!][steam]!
 - 🌱 Always open to learn new things! 🤣
 - 👯 If I can, I will try to contribute to whatever project I enjoy!
 - ⚡ A day without music? Impossible!
 
+## My Achievements!
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco" alt="mewpasco" /></a> </p>
+
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://avariaxyz.win/)
-[![website](./img/globe-dark.svg)](https://avariaxyz.win/)
+
+[![website](./img/github.svg)](https://avariaxyz.win/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/mewpasco#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/mewpasco#gh-dark-mode-only)
+[![website](./img/discord.svg)](https://discord.gg/avia)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/mewpasco#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/mewpasco#gh-dark-mode-only)
+[![website](./img/twitch.svg)](https://twitch.tv/mewpasco)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/youtube.svg)](https://youtube.com/mewpasco)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mewpasco#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mewpasco#gh-dark-mode-only)
+[![website](./img/x-twitter.svg)](https://x.com/mewpasco)
+&nbsp;&nbsp;
+[![website](./img/instagram.svg)](https://instagram.com/mewpasco)
 
 <br />
 <br />
@@ -36,36 +38,33 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+<<<<<<< HEAD
+=======
 - [ReviveTanki – A homage to the official Tanki X](https://www.youtube.com/watch?v=MksHtY5TZe8)
 - [ReviveTanki | How to download / play! | Как скачать и играть! &lpar;русские субтитры&rpar;](https://www.youtube.com/watch?v=XQh4FMQqeu4)
 - [Destiny 2 Tutorial | x Kills Quests](https://www.youtube.com/watch?v=xVMb2wdE0do)
 - [ΛVΛRIΛ - Destiny 2 Community with Archives, Guides and more!](https://www.youtube.com/watch?v=Q3XIGciTToI)
 - [Destiny 2 - Void Bouncer #BuildOfTheWeek](https://www.youtube.com/watch?v=PZYJtw64iBo)
+>>>>>>> 521aa237989a0a74f54177aae1fac61e4bd2ea37
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mewpasco)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
-</details>
+### :fire: GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [website]: https://avariaxyz.win/
 [steam]: https://steamcommunity.com/id/mewpasco/
 [twitter]: https://twitter.com/mewpasco
 [youtube]: https://youtube.com/mewpasco
 [instagram]: https://instagram.com/mewpasco
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[discord]: https://discord.gg/avia
