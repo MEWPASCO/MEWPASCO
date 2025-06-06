@@ -50,8 +50,6 @@
 
 <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" />
 
----
-
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
