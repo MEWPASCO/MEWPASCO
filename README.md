@@ -1,8 +1,8 @@
 # Hi there, I'm Pascal - aka [Wolfÿ][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIJguCB_U3LQ6Cbx8OANU9A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 [![Website](https://img.shields.io/website?label=avariaxyz.win&style=for-the-badge&url=https://avariaxyz.win/)](https://avariaxyz.win/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mewpasco?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/avia)
 
 ## 💻 Moods~
