@@ -55,7 +55,7 @@
 ### 💎 Some Discord CSS Projects | Vencord
 
 <a href="https://github.com/MEWPASCO/rainbowglow-avatars">
-<img src="https://github-readme-stats-fork-neon.vercel.app/api/pin/?username=mewpasco&rainbowglow-avatars&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" alt="Rainbow Glow Avatars">
+<img src="https://github-readme-stats-fork-neon.vercel.app/api/pin/?username=mewpasco&repo=rainbowglow-avatars&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" alt="Rainbow Glow Avatars">
 </a>
 
 <a href="https://github.com/MEWPASCO/discord-ui-tweaks">
