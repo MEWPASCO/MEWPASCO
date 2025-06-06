@@ -9,8 +9,6 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)][twitter-sub]
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
 
-https://6klabs.com/widget/spotify/7dbcf9975fc76a793cbf10e322a3b61217ffb9bfd123e9f3e7b437ccd577a75f
-
 ## 💻 Moods~
 
 - 👾 Writing code like I play games: aggressively, and with snacks!
@@ -48,7 +46,11 @@ https://6klabs.com/widget/spotify/7dbcf9975fc76a793cbf10e322a3b61217ffb9bfd123e9
 
 <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" />
 
+---
 
+### 🗣️ 3D Overview
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [website]: https://avariaxyz.win/
 [steam]: https://steamcommunity.com/id/mewpasco/
