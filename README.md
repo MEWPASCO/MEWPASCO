@@ -4,12 +4,16 @@
 [![Website](https://img.shields.io/website?label=avariaxyz.win&style=for-the-badge&url=https://avariaxyz.win/)](https://avariaxyz.win/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mewpasco?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco)
 
-## Doing things in my free time!
+## 💻 Moods~
 
-- ⚠️ Coding is a little hobby next to gaming - [Check my Steam!][steam]!
-- 🌱 Always open to learn new things! 🤣
-- 👯 If I can, I will try to contribute to whatever project I enjoy!
-- ⚡ A day without music? Impossible!
+- 👾 Writing code like I play games: aggressively, and with snacks!
+- 📦 "Temporary fix" veteran. Still running strong 2 weeks later
+- 🧼 Clean code? I prefer "functional chaos"-
+- 💬 If it compiles, I commit. If it doesn’t... I scream internally...
+- 🧪 Currently cooking: something broken but cool!
+- 🌐 Building websites no one asked for but everyone secretly vibes with!
+- 💿 Yes I own a website. No I don’t know what to do with it.
+- 💽 I break it so I can fix it better.
 
 ### Connect with me:
 
@@ -42,14 +46,21 @@
 
 ---
 
+### :fire: GitHub Stats
+
+<img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" />
+
+---
+
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
+
+
+
+
+
 <!--END_SECTION:activity-->
-
-### :fire: GitHub Stats
-
-<img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=false" />
 
 
 [website]: https://avariaxyz.win/
