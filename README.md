@@ -46,19 +46,22 @@
 
 ---
 
+### :zap: Recent GitHub Activity
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2940296718) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2940284806) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 💪 Opened PR [#5127](https://github.com/hoppscotch/hoppscotch/pull/5127) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2939592050) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2936615407) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
+
+---
+
 ### :fire: GitHub Stats
 
 <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" />
 
-### :zap: Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4440](https://github.com/mastra-ai/mastra/pull/4440) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
-2. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266031546) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
-<!--END_SECTION:activity-->
 
 
 [website]: https://avariaxyz.win/
