@@ -1,9 +1,15 @@
 # Hi there, I'm Pascal - aka [Wolfÿ][youtube] 👋 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
-[![Website](https://img.shields.io/website?label=avariaxyz.win&style=for-the-badge&url=https://avariaxyz.win/)][(https://avariaxyz.win/)]
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)][discord]
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)][website]
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][steam]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)][twitch]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)][twitter-sub]
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+
+https://6klabs.com/widget/spotify/7dbcf9975fc76a793cbf10e322a3b61217ffb9bfd123e9f3e7b437ccd577a75f
 
 ## 💻 Moods~
 
@@ -15,15 +21,6 @@
 - 🌐 Building websites no one asked for but everyone secretly vibes with!
 - 💿 Yes I own a website. No I don’t know what to do with it.
 - 💽 I break it so I can fix it better.
-
-### Connect with me:
-
-<a href="https://avariaxyz.win/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mewpasco" height="30" width="40" /></a>
-<a href="https://discord.gg/avia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mewpasco" height="30" width="40" /></a>
-<a href="https://twitch.tv/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mewpasco" height="30" width="40" /></a>
-<a href="https://youtube.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mewpasco" height="30" width="40" /></a>
-<a href="https://x.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mewpasco" height="30" width="40" /></a>
-<a href="https://instagram.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mewpasco" height="30" width="40" /></a>
 
 ---
 
@@ -47,18 +44,6 @@
 
 ---
 
-### :zap: Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2940296718) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2940284806) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 💪 Opened PR [#5127](https://github.com/hoppscotch/hoppscotch/pull/5127) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2939592050) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#5119](https://github.com/hoppscotch/hoppscotch/issues/5119#issuecomment-2936615407) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-<!--END_SECTION:activity-->
-
----
-
 ### :fire: GitHub Stats
 
 <img align="left" alt="Wolfÿ's GitHub Stats" src="https://github-readme-stats-fork-neon.vercel.app/api?username=mewpasco&theme=ambient_gradient&show_icons=true&include_all_commits=true&hide_border=true" />
@@ -68,6 +53,9 @@
 [website]: https://avariaxyz.win/
 [steam]: https://steamcommunity.com/id/mewpasco/
 [twitter]: https://twitter.com/mewpasco
+[twitter-sub]: https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco
 [youtube]: https://youtube.com/mewpasco
 [instagram]: https://instagram.com/mewpasco
 [discord]: https://discord.gg/avia
+[twitch]: https://twitch.tv/mewpasco
+[spotify]: https://open.spotify.com/user/21jfhcbrbqznxwafykqahzt6y?si=0f69433fb1724618
