@@ -17,28 +17,28 @@
 
 ### Connect with me:
 
-<a href="https://avariaxyz.win/" style="color: #1da1f2;">
-  <img src="./img/github.svg" width="48" alt="Website"/>
+<a href="https://avariaxyz.win/"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" alt="Website"/>
 </a>
 
-<a href="https://discord.gg/avia" style="color: #1da1f2;">
-  <img src="./img/discord.svg" width="48" alt="Discord"/>
+<a href="https://discord.gg/avia"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48" alt="Discord"/>
 </a>
 
-<a href="https://twitch.tv/mewpasco" style="color: #1da1f2;">
-  <img src="./img/twitch.svg" width="48" alt="Twitch"/>
+<a href="https://twitch.tv/mewpasco"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" width="48" alt="Twitch"/>
 </a>
 
-<a href="https://youtube.com/mewpasco" style="color: #1da1f2;">
-  <img src="./img/youtube.svg" width="48" alt="YouTube"/>
+<a href="https://youtube.com/mewpasco"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48" alt="YouTube"/>
 </a>
 
-<a href="https://x.com/mewpasco" style="color: #1da1f2;">
-  <img src="./img/x-twitter.svg" width="48" alt="X/Twitter"/>
+<a href="https://x.com/mewpasco"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" alt="X/Twitter"/>
 </a>
 
-<a href="https://instagram.com/mewpasco" style="color: #1da1f2;">
-  <img src="./img/instagram.svg" width="48" alt="Instagram"/>
+<a href="https://instagram.com/mewpasco"">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" alt="Instagram"/>
 </a>
 
 
