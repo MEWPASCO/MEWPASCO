@@ -17,27 +17,27 @@
 
 ### Connect with me:
 
-<a href="https://avariaxyz.win/">
+<a href="https://avariaxyz.win/" style="color: #1da1f2;">
   <img src="./img/github.svg" width="48" alt="Website"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://discord.gg/avia">
+
+<a href="https://discord.gg/avia" style="color: #1da1f2;">
   <img src="./img/discord.svg" width="48" alt="Discord"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://twitch.tv/mewpasco">
+
+<a href="https://twitch.tv/mewpasco" style="color: #1da1f2;">
   <img src="./img/twitch.svg" width="48" alt="Twitch"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/mewpasco">
+
+<a href="https://youtube.com/mewpasco" style="color: #1da1f2;">
   <img src="./img/youtube.svg" width="48" alt="YouTube"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://x.com/mewpasco">
+
+<a href="https://x.com/mewpasco" style="color: #1da1f2;">
   <img src="./img/x-twitter.svg" width="48" alt="X/Twitter"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/mewpasco">
+
+<a href="https://instagram.com/mewpasco" style="color: #1da1f2;">
   <img src="./img/instagram.svg" width="48" alt="Instagram"/>
 </a>
 
