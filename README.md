@@ -38,7 +38,7 @@
 
 ## 🗣️ My Achievements!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco" alt="mewpasco" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco&theme=onedark" alt="mewpasco" /></a> </p>
 
 ---
 
