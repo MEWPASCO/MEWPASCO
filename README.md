@@ -17,18 +17,30 @@
 
 ### Connect with me:
 
+<a href="https://avariaxyz.win/">
+  <img src="./img/github.svg" width="24" alt="Website"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/avia">
+  <img src="./img/discord.svg" width="24" alt="Discord"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitch.tv/mewpasco">
+  <img src="./img/twitch.svg" width="24" alt="Twitch"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/mewpasco">
+  <img src="./img/youtube.svg" width="24" alt="YouTube"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/mewpasco">
+  <img src="./img/x-twitter.svg" width="24" alt="X/Twitter"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/mewpasco">
+  <img src="./img/instagram.svg" width="24" alt="Instagram"/>
+</a>
 
-[![website](./img/github.svg)](https://avariaxyz.win/)
-&nbsp;&nbsp;
-[![website](./img/discord.svg)](https://discord.gg/avia)
-&nbsp;&nbsp;
-[![website](./img/twitch.svg)](https://twitch.tv/mewpasco)
-&nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://youtube.com/mewpasco)
-&nbsp;&nbsp;
-[![website](./img/x-twitter.svg)](https://x.com/mewpasco)
-&nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://instagram.com/mewpasco)
 
 <br />
 <br />
@@ -38,14 +50,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<<<<<<< HEAD
-=======
-- [ReviveTanki – A homage to the official Tanki X](https://www.youtube.com/watch?v=MksHtY5TZe8)
-- [ReviveTanki | How to download / play! | Как скачать и играть! &lpar;русские субтитры&rpar;](https://www.youtube.com/watch?v=XQh4FMQqeu4)
-- [Destiny 2 Tutorial | x Kills Quests](https://www.youtube.com/watch?v=xVMb2wdE0do)
-- [ΛVΛRIΛ - Destiny 2 Community with Archives, Guides and more!](https://www.youtube.com/watch?v=Q3XIGciTToI)
-- [Destiny 2 - Void Bouncer #BuildOfTheWeek](https://www.youtube.com/watch?v=PZYJtw64iBo)
->>>>>>> 521aa237989a0a74f54177aae1fac61e4bd2ea37
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mewpasco)
