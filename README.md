@@ -36,7 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [ReviveTanki – A homage to the official Tanki X](https://www.youtube.com/watch?v=MksHtY5TZe8)
+- [ReviveTanki | How to download / play! | Как скачать и играть! &lpar;русские субтитры&rpar;](https://www.youtube.com/watch?v=XQh4FMQqeu4)
+- [Destiny 2 Tutorial | x Kills Quests](https://www.youtube.com/watch?v=xVMb2wdE0do)
+- [ΛVΛRIΛ - Destiny 2 Community with Archives, Guides and more!](https://www.youtube.com/watch?v=Q3XIGciTToI)
+- [Destiny 2 - Void Bouncer #BuildOfTheWeek](https://www.youtube.com/watch?v=PZYJtw64iBo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mewpasco)
