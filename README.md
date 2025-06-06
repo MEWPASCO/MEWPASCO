@@ -17,30 +17,12 @@
 
 ### Connect with me:
 
-<a href="https://avariaxyz.win/"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" alt="Website"/>
-</a>
-
-<a href="https://discord.gg/avia"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48" alt="Discord"/>
-</a>
-
-<a href="https://twitch.tv/mewpasco"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" width="48" alt="Twitch"/>
-</a>
-
-<a href="https://youtube.com/mewpasco"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48" alt="YouTube"/>
-</a>
-
-<a href="https://x.com/mewpasco"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" alt="X/Twitter"/>
-</a>
-
-<a href="https://instagram.com/mewpasco"">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" alt="Instagram"/>
-</a>
-
+<a href="https://avariaxyz.win/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mewpasco" height="30" width="40" /></a>
+<a href="https://discord.gg/avia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mewpasco" height="30" width="40" /></a>
+<a href="https://twitch.tv/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mewpasco" height="30" width="40" /></a>
+<a href="https://youtube.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mewpasco" height="30" width="40" /></a>
+<a href="https://x.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mewpasco" height="30" width="40" /></a>
+<a href="https://instagram.com/mewpasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mewpasco" height="30" width="40" /></a>
 
 <br />
 <br />
