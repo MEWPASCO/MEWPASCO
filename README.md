@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIJguCB_U3LQ6Cbx8OANU9A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=avariaxyz.win&style=for-the-badge&url=https://avariaxyz.win/)](https://avariaxyz.win/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mewpasco?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=Wolfÿ)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mewpasco?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco)
 
 ## Doing things in my free time!
 
@@ -18,27 +18,27 @@
 ### Connect with me:
 
 <a href="https://avariaxyz.win/">
-  <img src="./img/github.svg" width="24" alt="Website"/>
+  <img src="./img/github.svg" width="48" alt="Website"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://discord.gg/avia">
-  <img src="./img/discord.svg" width="24" alt="Discord"/>
+  <img src="./img/discord.svg" width="48" alt="Discord"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://twitch.tv/mewpasco">
-  <img src="./img/twitch.svg" width="24" alt="Twitch"/>
+  <img src="./img/twitch.svg" width="48" alt="Twitch"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://youtube.com/mewpasco">
-  <img src="./img/youtube.svg" width="24" alt="YouTube"/>
+  <img src="./img/youtube.svg" width="48" alt="YouTube"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/mewpasco">
-  <img src="./img/x-twitter.svg" width="24" alt="X/Twitter"/>
+  <img src="./img/x-twitter.svg" width="48" alt="X/Twitter"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/mewpasco">
-  <img src="./img/instagram.svg" width="24" alt="Instagram"/>
+  <img src="./img/instagram.svg" width="48" alt="Instagram"/>
 </a>
 
 
