@@ -1,4 +1,4 @@
-# Hi there, I'm Pascal - aka [Wolfÿ][youtube] 👋 
+# Hi there, I'm Pascal - aka [Wolfÿ][youtube] 👋
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)][website]
@@ -36,7 +36,7 @@
 
 ---
 
-## 🗣️ My Achievements!
+## 🗣️ My Achievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewpasco&theme=onedark" alt="mewpasco" /></a> </p>
 
@@ -70,11 +70,10 @@
 
 ### 🗣️ 3D Overview
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [website]: https://avariaxyz.win/
 [steam]: https://steamcommunity.com/id/mewpasco/
-[twitter]: https://twitter.com/mewpasco
 [twitter-sub]: https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmewpasco&screen_name=mewpasco
 [youtube]: https://youtube.com/mewpasco
 [instagram]: https://instagram.com/mewpasco
