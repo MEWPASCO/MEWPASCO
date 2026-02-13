@@ -1,7 +1,7 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -13,4 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCIJguCB_U3LQ6Cbx8OANU9A"
